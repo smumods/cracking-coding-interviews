@@ -28,4 +28,4 @@ If you're new to the concept of completing algorithm questions on hackerrank / l
  + Search / Sort Algorithms
    + Relavant complexities
 
-Take note that interviewers are likely to go in 
+Take note that interviewers are likely to ask in depth questions about your data structures and search / sort algo's
