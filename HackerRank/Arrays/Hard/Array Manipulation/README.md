@@ -10,26 +10,36 @@
 ** copying answers dont net you any learning, go try it for yourself first!**
 scroll down for the answer
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
-.
-.
-.
-.
-.
-.
+
+
 ``` python
 def arrayManipulation(n, queries):
     diffArray = [0] * (n+1)
