@@ -17,6 +17,15 @@ Feel free to create a pull request to edit or add to it, and share it with other
 
 ## Learning
 
-### Getting Started
+### Getting Started 
 
-1. Kim's suggestion goes here
+If you're new to the concept of completing algorithm questions on hackerrank / leetcode, it is important to brush up your CS fundementals such as:
+ + Big O notation / complexity
+ + Arrays / Lists, Dynamic Arrays
+   + Indexing
+ + Hashmaps / Dictionaries
+   + Hashing / Collisions
+ + Search / Sort Algorithms
+   + Relavant complexities
+
+Take note that interviewers are likely to go in 
